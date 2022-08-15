@@ -347,3 +347,28 @@ function largestNumber(number) {
 }
 const r4 = largestNumber([1, 3, 5, 2])
 console.log(r4)
+
+// const user = [
+//   {
+//     name: 'A',
+//     age: 20,
+//   },
+//   {
+//     name: 'E',
+//     age: 39,
+//   },
+//   {
+//     name: 'B',
+//     age: 25,
+//   },
+//   {
+//     name: 'C',
+//     age: 30,
+//   },
+//   {
+//     name: 'D',
+//     age: 32,
+//   },
+// ]
+
+// const newUser = user.filter((u) => u.age > 30)
